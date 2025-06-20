@@ -42,11 +42,6 @@ export const metadata: Metadata = {
     description: 'The all-in-one platform that empowers content creators to build, grow, and monetize their digital presence.',
     images: ['/og-image.jpg'],
   },
-  icons: {
-    icon: '/logo.svg',
-    shortcut: '/logo.svg',
-    apple: '/logo.svg',
-  },
   robots: {
     index: true,
     follow: true,
